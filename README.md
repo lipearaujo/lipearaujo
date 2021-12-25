@@ -7,8 +7,8 @@ Apaixonado por tecnologia com o foco em Desenvolvimento Web e Mobile. ✌🏽�
 
 <div>
   <a href="https://github.com/lipearaujo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=lipearaujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipearaujo&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lipearaujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipearaujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline_block"><br>
