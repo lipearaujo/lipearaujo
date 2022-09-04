@@ -1,7 +1,8 @@
 ### Olá, eu sou o Filipe. 
 
-📚🖊 - Atualmente estou no 10° período de Engenharia de Computação pela Universidade Federal da Grande Dourados - UFGD. <br/> 
-Apaixonado por tecnologia com o foco em Desenvolvimento Web e Mobile. ✌🏽🤙🏽
+📚🖊 - <p>Olá, me chamo Filipe e sou estudante de Engenharia de Computação pela Universidade Federal da Grande Dourados - UFGD.</p>
+       <p>Tenho interesse pela área de Desenvolvimento Web e possuo grande disposição para o aprendizado e a aplicação de conhecimentos e habilidades interpessoais no âmbito profissional, buscando crescimento constante.</p>
+        <p>No momento estou estudando sobre ReactJS e NodeJS.</p> ✌🏽🤙🏽
 
 ##
 
