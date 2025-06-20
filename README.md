@@ -1,7 +1,7 @@
 ### Olá, eu sou o Filipe. 
 
  <p>📚🖊 
- Sou estudante de Engenharia de Computação pela
+ Bacharel Engenharia de Computação pela
  Universidade Federal da Grande Dourados - UFGD. Comecei a programar na
  faculdade e logo de cara fiquei fascinado com a infinidade de coisas
  que eram possiveis de se fazer utilizando linguagens de programação e
